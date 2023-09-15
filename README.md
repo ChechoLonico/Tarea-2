@@ -1,2 +1,2 @@
-# Tarea-2
-GO-IT Tarea 2
+# goit-markup-hw-01
+GO-IT Tarea 1
