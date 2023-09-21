@@ -25,9 +25,11 @@
 /*Style link de  pagina web*/
 .header-link{ color: var(--color-gris-oscuro);}
 .header-link:hover{color: var(--color-azul-claro);}
+.header-link:focus{color: var(--color-azul-claro);}
 /*Style links de contacto*/
 .header-link-contact{color: var(--color-beige)}
 .header-link-contact:hover{color: var(--color-azul-claro)}
+.header-link-contact:focus{color: var(--color-azul-claro)}
 /*Style link actual*/
 .current-link{color:var(--color-azul-claro);}
 
@@ -77,6 +79,7 @@
     line-height: 1.62; letter-spacing: 0.03;
     text-align: center; color: var(--color-gris-oscuro);}
 .project-button:hover{background-color: var(--color-azul-claro); color: var(--color-blanco);}
+.project-button:focus{background-color: var(--color-azul-claro); color: var(--color-blanco);}
 .project-title{font-family: 'Roboto', sans-serif;
     font-weight: 700; font-size: 18px;
     line-height: 2; letter-spacing: 0.06;
@@ -93,5 +96,7 @@
     color: var(--color-blanco);background-color: var(--color-azul-oscuro);}
 .footer-link{color: var(--color-blanco);}
 .footer-link:hover{color: var(--color-azul-claro);}
+.footer-link:focus{color: var(--color-azul-claro);}
 .footer-link-contact{color:#FFFFFF99;}
 .footer-link-contact:hover{color: var(--color-azul-claro);}
+.footer-link-contact:focus{color: var(--color-azul-claro);}
